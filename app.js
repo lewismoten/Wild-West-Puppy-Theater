@@ -8,7 +8,7 @@
 	addGetter(root, "east", move.bind(context,  1, 0));
 	addGetter(root, "west", move.bind(context, -1, 0));
 	addGetter(root, "redraw", move.bind(context, 0, 0));
-	addGetter(root, "start", newMaze.bind(context, 5, 5));
+	addGetter(root, "start", newMaze.bind(context, 20, 20));
 	
 	start;
 
