@@ -1,3 +1,5 @@
+![Wild-West-Puppy-Theater: Puppy sheriff in a wild-west maze](docs/images/social-preview.png)
+
 # Wild West Puppy Theater
 
 A maze game played in the browser console (2015).
